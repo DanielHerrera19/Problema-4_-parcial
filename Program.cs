@@ -44,7 +44,7 @@ namespace Problema_4__parcial
             Console.Write("{0,20}", "Utilidades");
             Console.WriteLine("{0,20}", "Calificacion");
 
-            //  
+            // Calcular dependiendo de las unidades
             while (unidades <= unidadesMaximas)
             {
                 csto_total_mano_de_obra = unidades * csto_mano_de_obra;
